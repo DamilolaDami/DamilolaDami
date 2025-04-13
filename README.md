@@ -12,7 +12,7 @@ Builder of ideas, wrangler of pixels, and optimizer of systems. I bring concepts
 React • Next.js • Node.js • Express • PostgreSQL • Tailwind • Typescript  
 
 📱 Mobile Development  
-Flutter • React Native • Swift (iOS)  
+Flutter • Swift (iOS)  
 
 🔧 Backend & Systems  
 Rust • Redis • WebSockets • REST & GraphQL APIs • Microservices  
